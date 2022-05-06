@@ -1,0 +1,1 @@
+“dev:build-server”: “set NODE_ENV=development && webpack --config webpack.server.js --mode=development -w”,
